@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		HelloWorldCS.cs = HelloWorldCS.cs
 		HelloWorldCpp.cpp = HelloWorldCpp.cpp
 		HelloWorldC.c = HelloWorldC.c
+		HelloWorldDart.dart = HelloWorldDart.dart
 		HelloWorldFortran.for = HelloWorldFortran.for
 		HelloWorldHtml.html = HelloWorldHtml.html
 		HelloWorldJS.js = HelloWorldJS.js
